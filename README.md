@@ -12,7 +12,7 @@ Transaction References, TxRefs, are encoded in Bech32. To learn more about it, s
 
 - Use `txidbech32.txRefDecode( "yourTxRefHere" )` to retrieve a TxId from a bech32 encoded TxRef.
 
-- Use `txidbech32.txidToBech32( "yourTxIDHere" , "mainnet"|"testnet" )`
+- Use `txidbech32.txidToBech32( "yourTxIDHere" , "mainnet | testnet" )`
 
 See _examples.py_ for detailed usage examples and tests.
 
