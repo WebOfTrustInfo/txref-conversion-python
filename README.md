@@ -4,8 +4,9 @@ Tested in Python3
 
 Transaction References, TxRefs, are encoded in Bech32. To learn more about it, see [this BIP](https://github.com/veleslavs/bips/blob/wip/bip-XXXX-Bech32_Encoded_Transaction_Postion_References.mediawiki)
 
-** Tests **
+**Tests**
 - Run `python3 tests.py`
+
 **Usage:**
 
 - Add txidbech32.py to your imports: `import txidbech32`
