@@ -38,4 +38,6 @@ def tests():
     else:
         print("Mainnet Test: FAIL :(")
 
-tests()
+
+
+#tests()
